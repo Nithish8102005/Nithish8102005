@@ -9,7 +9,7 @@
 ## 🌐 Connect with Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/m-nithish-kumar-40b85932a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-    <img src="https://img.shields.io/badge/LinkedIn-Prem%20Kumar%20S-blue?style=for-the-badge&logo=linkedin"/>
+    <img src="https://www.linkedin.com/in/m-nithish-kumar-40b85932a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"/>
   </a>
   <a href="mailto:premkumarsanjay2006@gmail.com">
     <img src="https://img.shields.io/badge/Email-premkumarsanjay2006%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
