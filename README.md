@@ -21,34 +21,37 @@
 
 ---
 
+---
+
 ## 🛠 Skills  
 
 ### 💻 Programming Languages  
-<p>
-  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" title="Java" height="40"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </p>
 
 ### 🔌 IoT & Embedded Systems  
-<p>
-  <img src="https://img.icons8.com/color/48/arduino.png" title="Arduino" height="40"/>
-  <img src="https://img.icons8.com/color/48/microchip.png" title="ESP32" height="40"/>
-  <img src="https://img.icons8.com/external-flat-juicy-fish/48/external-iot-smart-home-flat-flat-juicy-fish.png" title="ThingSpeak" height="40"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/ThingSpeak-1E90FF?style=for-the-badge&logo=iot&logoColor=white" />
 </p>
 
 ### 🗄 Database  
-<p>
-  <img src="https://img.icons8.com/fluency/48/mysql-logo.png" title="MySQL" height="40"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ---
 
 ## 🛠 Coding Tools  
-<p>
-  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" title="VS Code" height="40"/>
-  <img src="https://img.icons8.com/color/48/git.png" title="Git" height="40"/>
-  <img src="https://img.icons8.com/color/48/github.png" title="GitHub" height="40"/>
-  <img src="https://img.icons8.com/color/48/mysql-logo.png" title="MySQL Workbench" height="40"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL Workbench-00618A?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
+
 
 ---
 
