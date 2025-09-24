@@ -92,13 +92,6 @@
 
 ---
 
-## 📈 Contribution Graph  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nithish8102005&theme=radical" alt="Contribution Graph"/>
-</p>
-
----
-
 ## 📌 Featured Projects  
 <p align="center">
   <a href="https://github.com/Nithish8102005/YourBestRepo1">
@@ -111,13 +104,6 @@
 
 ---
 
-## 🐍 Contribution Snake  
-<p align="center">
-  <img src="https://github.com/Nithish8102005/Nithish8102005/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
-
----
-
 ## ✨ Fun Zone  
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote"/>
@@ -125,13 +111,6 @@
 
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card"/>
-</p>
-
----
-
-## 👀 Profile Views  
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nithish8102005&label=Profile%20views&color=blue&style=flat"/>
 </p>
 
 ---
