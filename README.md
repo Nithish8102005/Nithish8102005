@@ -1,11 +1,11 @@
 # Hi 👋 I'm Nithish Kumar M
 
 <p align="center">
-  <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="200"/>
+  <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="250"/>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&width=800&height=50&lines=I+am+an+Electronics+and+Communication+Engineering+Student;I+am+learning+Web+Development;I+am+interested+in+Software+Development" alt="Typing SVG"/>
+<p align="center" style="margin-top:-180px; position:absolute;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&width=900&height=60&lines=I+am+an+Electronics+and+Communication+Engineering+Student;I+am+learning+Web+Development;I+am+interested+in+Software+Development" alt="Typing SVG"/>
 </p>
 
 
