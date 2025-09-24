@@ -21,11 +21,10 @@
 
 ---
 
-
 ## 🛠 Skills  
 
 ### 💻 Programming Languages  
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />  
 
 ### 🔌 IoT & Embedded Systems  
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
@@ -43,9 +42,7 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL Workbench-00618A?style=for-the-badge&logo=mysql&logoColor=white" />
 
-
 ---
-
 ## 🌐 Connect with Me  
 <p>
   <a href="https://www.linkedin.com/in/m-nithish-kumar-40b85932a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
