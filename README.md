@@ -92,18 +92,6 @@
 
 ---
 
-## 📌 Featured Projects  
-<p align="center">
-  <a href="https://github.com/Nithish8102005/YourBestRepo1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nithish8102005&repo=YourBestRepo1&theme=radical"/>
-  </a>
-  <a href="https://github.com/Nithish8102005/YourBestRepo2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nithish8102005&repo=YourBestRepo2&theme=radical"/>
-  </a>
-</p>
-
----
-
 ## ✨ Fun Zone  
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote"/>
