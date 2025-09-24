@@ -3,7 +3,7 @@
   <img src="https://i.pinimg.com/originals/02/64/6b/02646b7544326d0a8a75668f0d3e85d4.gif" alt="anime banner" width="100%"/>
 </p>
 
-# Hi 👋 I'm Nithish Kumar M  
+# Hi 👋 I'm Nithish Kumar M 
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0000FF&center=true&width=850&height=50&lines=Electronics+and+Communication+Engineering+Student;I+am+interested+in+Software+Development;Passionate+about+IoT+and+Embedded+Systems" alt="Typing SVG"/>
