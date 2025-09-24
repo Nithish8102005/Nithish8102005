@@ -93,4 +93,4 @@
 ---
 
 <!-- Footer Animation -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00C9FF,92FE9D&height=90&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000,434343&height=90&section=footer"/>
