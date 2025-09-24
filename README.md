@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="anime avatar" width="140" style="border-radius:50%"/>
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="anime banner" width="100%" />
 </p>
 
 # Hi 👋 I'm Nithish Kumar M
