@@ -1,7 +1,11 @@
-# Hi 👋 I'm Nithish Kumar M  
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="anime avatar" width="140" style="border-radius:50%"/>
+</p>
+
+# Hi 👋 I'm Nithish Kumar M
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0000FF&center=true&width=850&height=50&lines=Electronics+and+Communication+Engineering+Student;I+am+interested+in+Software+Development;Passionate+about+IoT+and+Embedded+Systems" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0000FF&center=true&width=850&height=50&lines=Electronics+and+Communication+Engineering+Student;I+am+interested+in+Software+Development" alt="Typing SVG"/>
 </p>
 
 ---
