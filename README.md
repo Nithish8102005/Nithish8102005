@@ -1,7 +1,7 @@
 # Hi 👋 I'm Nithish Kumar M
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0000FF&center=true&width=800&height=50&lines=I+am+an+Electronics+and+Communication+Engineering+Student;I+am+learning+Web+Development;I+am+interested+in+Software+Development" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0000FF&center=true&width=800&height=50&lines=Electronics+and+Communication+Engineering+Student;I+am+interested+in+Software+Development" alt="Typing SVG"/>
 </p>
 
 ---
@@ -54,9 +54,6 @@
   </a>
   <a href="https://github.com/Nithish8102005">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/">
-    <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
   <a href="https://www.hackerrank.com/profile/nithiskumarm025">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
