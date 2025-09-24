@@ -1,3 +1,8 @@
+<!-- Anime Banner -->
+<p align="center">
+  <img src="https://i.pinimg.com/originals/02/64/6b/02646b7544326d0a8a75668f0d3e85d4.gif" alt="anime banner" width="100%"/>
+</p>
+
 # Hi 👋 I'm Nithish Kumar M  
 
 <p align="center">
@@ -77,6 +82,32 @@
 
 ---
 
+## 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nithish8102005&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="Trophies"/>
+</p>
+
+---
+
+## 📈 Contribution Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nithish8102005&theme=radical" alt="Contribution Graph"/>
+</p>
+
+---
+
+## 📌 Featured Projects  
+<p align="center">
+  <a href="https://github.com/Nithish8102005/YourBestRepo1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nithish8102005&repo=YourBestRepo1&theme=radical"/>
+  </a>
+  <a href="https://github.com/Nithish8102005/YourBestRepo2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nithish8102005&repo=YourBestRepo2&theme=radical"/>
+  </a>
+</p>
+
+---
+
 ## 🐍 Contribution Snake  
 <p align="center">
   <img src="https://github.com/Nithish8102005/Nithish8102005/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
@@ -91,6 +122,13 @@
 
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card"/>
+</p>
+
+---
+
+## 👀 Profile Views  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nithish8102005&label=Profile%20views&color=blue&style=flat"/>
 </p>
 
 ---
