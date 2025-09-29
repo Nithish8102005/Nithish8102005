@@ -10,32 +10,17 @@
 </p>
 
 ---
+
 ## 👨‍💻 About Me  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="250px"/>
-</p>
-
-<div align="center">
-
-💡 **ECE Prefinal Year Student**  
-💻 Exploring **Software Development** & **Full Stack**  
-⚡ Passionate about **IoT & Embedded Systems**  
-📚 Currently learning **Java & MySQL**  
-🌱 Love to build **real-world solutions**  
-📧 Reach me at: **nithishkumarm025@gmail.com**  
-
-</div>
+- 🎓 **ECE Prefinal Year Student**  
+- 💻 Interested in **Software Development** & **Full Stack**  
+- ⚡ Exploring **IoT & Embedded Systems**  
+- 📚 Currently learning **Java & MySQL**  
+- 🌱 Love to build **real-world solutions**  
+- 📧 **Email:** nithishkumarm025@gmail.com  
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Electronics%20%26%20Communication-blueviolet?style=for-the-badge&logo=electron&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Software%20Developer%20In%20Progress-orange?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IoT%20&%20Embedded%20Systems-green?style=for-the-badge&logo=arduino&logoColor=white"/>
-</p>
-
----
 
 ## 🛠 Skills  
 
