@@ -1,3 +1,8 @@
+<!-- Footer Animation -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4B91&height=90&section=footer"/>
+</p>
+
 <!-- Header Banner -->
 <p align="center">
   <img src="https://i.pinimg.com/originals/dc/4b/f3/dc4bf3bdbdc6b20de2a6db1c9690a7ee.gif" width="100%" />
