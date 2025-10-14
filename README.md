@@ -10,7 +10,7 @@
 </p>
 
 ---
-## 👨‍💻 About Me - 
+## 👨‍💻 About Me 
 🎓 **ECE Prefinal Year Student**
 - 💻 Interested in **Software Development** & **Full Stack** 
 - ⚡ Exploring **IoT & Embedded Systems** 
