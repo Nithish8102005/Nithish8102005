@@ -1,6 +1,7 @@
-<!-- Footer Animation -->
+<!-- Footer Animation (Rotated 180°) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4B91&height=90&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4B91&height=90&section=footer" 
+       style="transform: rotate(180deg);"/>
 </p>
 
 <!-- Header Banner -->
