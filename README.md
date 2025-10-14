@@ -9,17 +9,29 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0000FF&center=true&width=850&height=50&lines=Electronics+and+Communication+Engineering+Student;I+am+interested+in+Software+Development;Passionate+about+IoT+and+Embedded+Systems" alt="Typing SVG"/>
 </p>
 
----
+<!-- About Me Section -->
+<h2 align="center">👨‍💻 About Me</h2>
 
-## 👨‍💻 About Me  
-- 🎓 **ECE Prefinal Year Student**  
-- 💻 Interested in **Software Development** & **Full Stack**  
-- ⚡ Exploring **IoT & Embedded Systems**  
-- 📚 Currently learning **Java & MySQL**  
-- 🌱 Love to build **real-world solutions**  
-- 📧 **Email:** nithishkumarm025@gmail.com  
+<p align="center">
+  🎓 <b>ECE Prefinal Year Student</b><br>
+  💻 Passionate about <b>Software Development</b> & <b>Full Stack</b><br>
+  ⚡ Exploring <b>IoT</b> & <b>Embedded Systems</b><br>
+  📚 Currently learning <b>Java</b> & <b>MySQL</b><br>
+  🌱 Love building <b>real-world solutions</b> that make an impact<br>
+</p>
 
----
+<p align="center">
+  📧 <b>Email:</b> <a href="mailto:nithishkumarm025@gmail.com">nithishkumarm025@gmail.com</a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nithishkm&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nithishkm&theme=tokyonight" alt="GitHub Streak" width="48%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nithishkm&theme=tokyo-night" alt="Activity Graph" />
+</p>
 
 
 ## 🛠 Skills  
